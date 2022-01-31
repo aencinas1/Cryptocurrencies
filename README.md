@@ -1,1 +1,2 @@
-# Cryptocurrencies
+# Cryptocurrencies Analysis
+In this module challenge, I helped Martha take a sample of cryptocurrencies and group them into clusters at her request. I utilized elbow curves, K Means, and visualization such as hvplot to group this list of cryptocurrencies into groups for Martha and her team to review and decide on which to invest in. From the analysis, distinct groups became apparent and Martha's group should have good direction in their investments. 
